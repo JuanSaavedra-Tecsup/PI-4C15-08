@@ -1,0 +1,4 @@
+Historia de usuario :
+
+como usuario, yo deberia contar ccon iun inicio de secion de de redes sociales , con el fin de obtener mi informacion de manera mas rapida.
+
